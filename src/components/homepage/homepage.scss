@@ -1,0 +1,27 @@
+.home{
+
+position: absolute;
+
+    .exp_div{
+        background: url(https://cdn-az.allevents.in/banners/1485bc3ce88fbf3a21a9c8d77814b387-rimg-w852-h480-gmir);
+        // background-repeat: no-repeat;
+        background-size: cover;
+        // background-position: center;
+
+        position: relative;
+        top: 60px;
+        height: 100px;
+        text-align: center;
+        color: aliceblue;
+        font-size: 20px;
+        padding: 20px;
+    }
+
+
+    .events_div{
+        padding: 30px;
+        background: rgb(247, 241, 241);
+        position: relative;
+        top: 80px;
+    }
+}
